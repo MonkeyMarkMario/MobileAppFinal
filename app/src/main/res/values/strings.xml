@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoblieAppFinal</string>
+    <string name="Button">Roll</string>
+    <string name="Title">Dice Roller</string>
+    <string name="Dice">Roll a Six-sided die</string>
+</resources>
