@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoblieAppFinal</string>
+    <string name="Button">Roll</string>
+    <string name="Title">Dice Roller</string>
+    <string name="Dice">Roll dice</string>
+    <string name="Sides"></string>
+    <string name="Submit">Submit</string>
+    <string name="NumberDice"># of Dice:</string>
+    <string name="Hint">0</string>
+    <string name="NumberSides"># of Sides:</string>
+    <string name="Error">Number required!</string>
+</resources>
